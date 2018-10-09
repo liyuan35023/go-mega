@@ -1,9 +1,3 @@
-
 *.o
-
-
-
 *.gitignore
-
-.idea
-/*
+.idea/*
