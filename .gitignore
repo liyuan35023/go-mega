@@ -1,7 +1,8 @@
-# Object file
+
 *.o
 
-# Ada Library Information
-*.ali
-.gitignore
+
+
+*.gitignore
+
 .idea
