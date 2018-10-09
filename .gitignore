@@ -1,3 +1,4 @@
-*.o
-*.gitignore
-.idea/*
+.idea
+.gitignore
+.exe
+.o
